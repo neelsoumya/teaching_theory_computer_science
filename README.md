@@ -7,6 +7,7 @@
 ![Course Flyer](images/flyer.png)
 
 ### Course Overview
+
 This course introduces students to the basics of theoretical computer science.
 
 **Level:** Undergraduate
