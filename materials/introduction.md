@@ -19,6 +19,8 @@ The city of Königsberg (now Kaliningrad, Russia) was famous for its seven bridg
 
 This problem was posed in the 18th century and became one of the first to be studied in graph theory. It led to the development of the concept of a graph and paved the way for modern computer science.
 
+![image](../images/bridge.png)
+
 ### Euler’s Solution
 
 Leonhard Euler solved this problem by representing the city as a graph, where the landmasses were nodes and the bridges were edges. He proved that a walk crossing each bridge exactly once was possible if and only if at most zero or two nodes had an odd degree.
