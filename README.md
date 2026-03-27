@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-![Course Flyer](images/course_flyer.png)
+![Course Flyer](images/flyer.png)
 
 ### Course Overview
 This course introduces students to the basics of theoretical computer science.
@@ -35,12 +35,7 @@ Course content and materials can be found in the following files:
 ### Learning Objectives
 
 By the end of this course, students will be able to:
-- Create semantic, accessible HTML5 documents
-- Design responsive layouts using modern CSS3 techniques
-- Develop server-side applications with PHP
-- Implement CRUD operations with MySQL databases
-- Build secure web applications following best practices
-- Deploy and maintain web applications
+- C
 
 ### Course Structure
 
