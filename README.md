@@ -1,14 +1,13 @@
 
 
-# Web Development with PHP, HTML & CSS
-## Undergraduate Course
+# Theoretical Computer Science
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ![Course Flyer](images/course_flyer.png)
 
 ### Course Overview
-This undergraduate course introduces students to full-stack web development using fundamental technologies: HTML5, CSS3, and PHP. Students will learn to build dynamic, database-driven websites from scratch.
+This course introduces students to the basics of theoretical computer science.
 
 **Level:** Undergraduate
 **Prerequisites:** Basic programming knowledge (any language)  
