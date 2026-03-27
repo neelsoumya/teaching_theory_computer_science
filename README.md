@@ -15,7 +15,7 @@ This course introduces students to the basics of theoretical computer science.
 
 **Course Instructor:** Soumya Banerjee
 
-**Course Website:** [https://neelsoumya.github.io/teaching_web_development/](https://neelsoumya.github.io/teaching_web_development/)
+**Course Website:** [https://neelsoumya.github.io/teaching_theory_computer_science/](https://neelsoumya.github.io/teaching_theory_computer_science/)
 
 
 ### Course Materials
@@ -23,24 +23,8 @@ This course introduces students to the basics of theoretical computer science.
 Course content and materials can be found in the following files:
 
 - [Resources](materials/resources.md)
-- [Setup instructions](materials/setup.md)
-- [Installation guide](materials/installation.md)
-- [History of the Web](materials/history.md)
-- [HTTP basics](materials/http.md)
-- [GET and POST methods](materials/get.md)
-- [HTML](materials/HTML.md)
-- [CSS fundamentals](materials/css_fundamentals.md)
-- [PHP basics](materials/php.md)
-- [Command line](materials/command_line.md)
-- [JavaScript](materials/javascript.md)
-- [SQL basics](materials/SQL.md)
-- [Database MySQL integration](materials/MySQL_integration.md)
-- [Cookies and Sessions](materials/cookies_sessions.md)
-- [ASP.NET introduction](materials/ASP.NET.md)
-- [Security](materials/security.md)
-- [HCI principles and universal accessibility](materials/HCI.md)
+- [Introduction](materials/introduction.md)
 - [Exams and quizzes](materials/exams_and_quizzes.md)
-- [Bonus materials](materials/history.md)
 
 <!--
 ### Instructor Information
